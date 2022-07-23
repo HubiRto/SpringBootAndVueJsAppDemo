@@ -1,0 +1,1 @@
+Stworzylem proste demo wykorzystujace Vue.js'a w postaci front-end'u i SpringBoot'a w postaciu back-end'u. Obie aplikacje sa napisane osobno i komunikuja sie ze soba. Dodalem tez automatyczne generowanie sie tych dwoch aplikacji do jednej zapisanej w pliku typu ".jar". Projekt wyswietla prosty komunikat typu HelloWorld z Vue.js.
